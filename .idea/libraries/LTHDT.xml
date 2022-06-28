@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LTHDT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LTHDT/out/artifacts/LTHDT_jar/LTHDT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
